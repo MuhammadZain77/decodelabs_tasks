@@ -2,7 +2,7 @@
 
 ## 📌 Internship Details
 
-- **Organization:** Decode Labs
+- **Organization:** DecodeLabs
 - **Position:** Data Analytics Intern
 - **Task:** Data Cleaning & Wrangling
 - **Tool Used:** Microsoft Excel
@@ -94,8 +94,8 @@ Through this task, I gained practical experience in:
 **Muhammad Zain Chawala**
 
 **Data Analytics Intern**  
-Decode Labs
+DecodeLabs
 
 ---
 
-*This task was completed as part of the Decode Labs Data Analytics Internship Program.*
+*This task was completed as part of the DecodeLabs Data Analytics Internship Program.*
