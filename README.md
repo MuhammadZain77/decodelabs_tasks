@@ -1,8 +1,8 @@
-# Decode Labs - Data Analytics Internship
+# DecodeLabs - Data Analytics Internship
 
-Welcome to my **Decode Labs Data Analytics Internship** repository.
+Welcome to my **DecodeLabs Data Analytics Internship** repository.
 
-This repository contains all internship tasks completed during my internship at Decode Labs. Each task demonstrates practical data analytics skills and documents my learning journey throughout the internship.
+This repository contains all internship tasks completed during my internship at DecodeLabs. Each task demonstrates practical data analytics skills and documents my learning journey throughout the internship.
 
 ## 📁 Repository Structure
 
