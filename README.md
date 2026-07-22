@@ -27,13 +27,34 @@ Performed comprehensive exploratory data analysis on a retail sales dataset usin
 - Data Visualization
 - Business Analytics
 
-### Task 3
-*To be updated.*
+## 🗄️ Task 3 – SQL Data Analysis
+
+This project focuses on analyzing a retail sales dataset using **MySQL**. SQL queries were written to perform data exploration, filtering, sorting, aggregation, grouping, and business-oriented analysis.
+
+### Project Highlights
+
+- Database Creation & Management
+- Data Import into MySQL
+- SQL Data Exploration
+- Filtering & Sorting
+- Aggregate Functions
+- Product Performance Analysis
+- Customer Behavior Analysis
+- Payment Method Analysis
+- Referral Source Analysis
+- Order Status Analysis
+- Business Insights Reporting
+
+### Skills Demonstrated
+
+- SQL
+- MySQL
+- Data Analysis
+- Database Management
+- Business Intelligence
+- Analytical Thinking
 
 ### Task 4
-*To be updated.*
-
-### Task 5
 *To be updated.*
 
 ## 🛠️ Tools & Technologies
@@ -55,4 +76,4 @@ BS Computer Science Student | Data Analytics Intern
 
 ---
 
-This repository is maintained as part of the **Decode Labs Data Analytics Internship Program**.
+This repository is maintained as part of the **DecodeLabs Data Analytics Internship Program**.
