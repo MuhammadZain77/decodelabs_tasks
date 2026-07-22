@@ -12,8 +12,20 @@ This repository contains all internship tasks completed during my internship at 
 - Missing value handling
 - Data preparation using Microsoft Excel
 
-### Task 2
-*To be updated.*
+## 📊 Task 2 - Exploratory Data Analysis & Interactive Dashboard
+
+Performed comprehensive exploratory data analysis on a retail sales dataset using Microsoft Excel. Designed Pivot Tables, Pivot Charts, KPIs, and an interactive dashboard with slicers to provide meaningful business insights.
+
+**Skills Demonstrated**
+
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Visualization
+- Business Analytics
 
 ### Task 3
 *To be updated.*
